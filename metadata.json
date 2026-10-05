@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Coffee Roasters",
+  "description": "Specialty coffee roastery, artisanal drink ordering, origin explorer, and precision brew ritual companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
